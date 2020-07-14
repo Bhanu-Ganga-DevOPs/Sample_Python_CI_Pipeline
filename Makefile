@@ -9,3 +9,6 @@ container-cli: build
 
 test: build
 	docker run -it sample-app bash -c "coverage run -m pytest; coverage report"
+
+clean:
+	rm *.xml

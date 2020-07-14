@@ -1,3 +1,4 @@
 /.idea
 *.xml
 .coverage
+.pytest_cache
