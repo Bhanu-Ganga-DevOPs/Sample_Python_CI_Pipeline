@@ -13,13 +13,11 @@ pipeline {
     }
     post {
         always {
-            steps {
-                junit 'testResults.xml'
-                sh 'coverage xml -o coverage.xml'
-                cobertura coberturaReportFile: 'coverage.xml'
-                archiveArtifacts artifacts: 'testResults.xml', fingerprint: true
-                archiveArtifacts artifacts: 'coverage.xml', fingerprint: true
-            }
+            junit 'testResults.xml'
+            sh 'coverage xml -o coverage.xml'
+            cobertura coberturaReportFile: 'coverage.xml'
+            archiveArtifacts artifacts: 'testResults.xml', fingerprint: true
+            archiveArtifacts artifacts: 'coverage.xml', fingerprint: true
         }
     }
 }
