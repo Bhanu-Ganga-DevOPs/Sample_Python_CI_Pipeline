@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2023-02-09T18:00:22.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="B5ShpdWlv8_jP-l2o3Uu" version="20.8.10" type="github"><diagram name="Page-1" id="zgnzpY38JLCEfD52P7mr">7Vhdb9owFP01SNsDE0kaaB+Bdv1QK01D1bSnycQ3iVfHzhyHj/36XScOIRCg3WiFqr0E+/ja1/ec65uYjjdOFteKpPGDpMA7bo8uOt5lx3XPz3v4NMCyBM58twQixWgJOTUwYb/BgnZelDMKWcNQS8k1S5tgIIWAQDcwopScN81CyZteUxLBFjAJCN9GvzGqYxuW36vxG2BRXHl2enYkIZWxBbKYUDlfg7yrjjdWUuqylSzGwA13FS/lvM87RlcbUyD0syb88B5uIGF3F849u/z+hc2Hs65dZUZ4bgO2m9XLioF5zDRMUhKY/hxF7nijWCccew42SZaWvIdsAehqZFcEpWGxc6vOigBMHJAJaLVEEzvB9yxnNmmcge3PawmcKrPidforkFjZo9XaNTPYsOS8gCj3JInqnxxP3hZPdyCemMgQfCCZBoWNCaiZaWwQiDzoJmeZVvIJxpJLhYiQAi1HIeN8AyKcRQK7AfKGC3sjwyrDUzy0Awmj1LgZtYmkZC6okeSydxxZHGdDF69FF6dFF++1ZDnbkmUYmWDevxZ+3z8xLQaHS0mThQOFpSkMhZDk3GgncQbTJmz/WHl9OK0HgxYqXf+1uDxv4bJfRD/FRqSLuEsglEW+1yz3f+WyGuhmxZfHEA2QkEU5zY5XC9WF7FaECmuZygOdK6gcYAClj6ZfhNf28l6PmbfxKmp7E/lvecoudmZG2poFnAnoVjszeWAC8lsTYU3ZdBPL+SbCWas/o3zXimjccQj1Xm/PzV/H3ZG/Y7RTkpsE1jEYdVnKTNjZp8MpbKI40bgmQQw051AHNmU8p0VX4qN405nelGSY8m5PipWlJpEZkSE+gASxySpB2YzRnPBqbmFNzM8cyqtGyKLi4KMxPurCcP14+zdUIridN1up1Uy3kywkJmJ7h3OP9f5u1hW8QG4Xlou3LCzOM+5MQPESabtS6VhGUhB+VaMbvNU291KmVsCfoPXSsklyTOWGvGtUO+6KauN4P9G4T5mrAPZFaKnTREWg9xietSungBPNZs2NHF+H3nur8FlKxIsqIVa04CkqUqkblKd6WBQlphmWrzZfX3OxVidzxmn24THDYseNclmgWFrUSmnuaWOZJETQ7OMaH+Ummxufqv9l7l/LnLtxTblo+YBqq3PVvBecL+zWfzsVY2v/3XlXfwA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-09T18:13:31.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="UShPkoZRh6-aKUkBeMG8" version="20.8.10" type="github">
+  <diagram name="Page-1" id="zgnzpY38JLCEfD52P7mr">
+    <mxGraphModel dx="880" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1_3MHemiJ91LiDYPiwAv-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="530" y="170" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="1_3MHemiJ91LiDYPiwAv-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="60" y="170" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="1_3MHemiJ91LiDYPiwAv-3" value="Jenkins Master Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="130" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1_3MHemiJ91LiDYPiwAv-4" value="Agent Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="565" y="130" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1_3MHemiJ91LiDYPiwAv-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="10" y="130" width="770" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="1_3MHemiJ91LiDYPiwAv-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Jenkins Infrastructure&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1_3MHemiJ91LiDYPiwAv-9" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Controls the pipilines.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Schedules the biluds to Agents based on the tags of each individual Agent that we configure in Jenkins GUI&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="50" y="245" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1_3MHemiJ91LiDYPiwAv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1_3MHemiJ91LiDYPiwAv-10" target="1_3MHemiJ91LiDYPiwAv-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1_3MHemiJ91LiDYPiwAv-10" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;Runs the builds(Usually scripts or Commands)&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="525" y="190" width="190" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="03XTWOD776x2py8IYCl4-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="550" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="03XTWOD776x2py8IYCl4-37" value="Selects the agent based on tag &lt;br&gt;to build the pipiline" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="03XTWOD776x2py8IYCl4-11" target="03XTWOD776x2py8IYCl4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03XTWOD776x2py8IYCl4-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="540" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="03XTWOD776x2py8IYCl4-12" value="Jenkins Master Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="510" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="03XTWOD776x2py8IYCl4-13" value="Agent Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="565" y="510" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="03XTWOD776x2py8IYCl4-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="10" y="510" width="770" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="03XTWOD776x2py8IYCl4-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Jenkins Infrastructure Real Time Example&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="450" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="03XTWOD776x2py8IYCl4-16" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Controls the pipilines.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Schedules the biluds to Agents based on the tags of each individual Agent that we configure in Jenkins GUI&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="165" y="625" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="03XTWOD776x2py8IYCl4-18" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;Runs the builds(Usually scripts or Commands)&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="525" y="570" width="190" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="03XTWOD776x2py8IYCl4-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;fontSize=12;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="40" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="03XTWOD776x2py8IYCl4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="625" as="sourcePoint" />
+            <mxPoint x="160" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="03XTWOD776x2py8IYCl4-23" value="Triggers Jenkins Master on Code Commit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="03XTWOD776x2py8IYCl4-22">
+          <mxGeometry x="-0.2286" y="4" relative="1" as="geometry">
+            <mxPoint x="56" y="101" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="03XTWOD776x2py8IYCl4-20" value="Git/Code Commit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="50" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
